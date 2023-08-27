@@ -1,0 +1,29 @@
+.title{
+    text-align: center;
+    color: #492933;
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+}
+
+.bgp{
+    background-color: #c98767;
+}
+
+.bgr{
+    background-color: #ffc685;;
+}
+
+.container {
+    border-color: #935a51;
+}
+
+
+
+/* .color1 {color: #492933;}
+.color2 {color: #683b3f;}
+.color3 {color: #935a51;}
+.color4 {color: #c98767;}
+.color5 {color: #ffc685;} */
